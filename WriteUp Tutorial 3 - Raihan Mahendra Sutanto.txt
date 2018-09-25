@@ -1,0 +1,19 @@
+Pertanyaan 1?: apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+    Berhasil ditambahkan. Tidak ada error.
+
+Pertanyaan 2: ?apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+    Terjadi error, karena tidak ada parameter amount.
+
+Pertanyaan 3?: apakah data Car tersebut muncul? Jika tidak, mengapa?
+    Data car muncul, tidak ada error.
+
+Pertanyaan 4?: apakah data Car tersebut muncul? Jika tidak, mengapa?
+    Terjadi error, karena mobil dengan id 2 tidak terdapat di list. (hasil dari
+    tugas pertanyaan 3 tidak tersimpan setelah distop)
+
+Pertanyaan 5?: apakah data Car tersebut muncul?
+    Adaa.
+
+Pertanyaan 6?: Apakah semua data Car muncul?
+   Muncuuul
+
